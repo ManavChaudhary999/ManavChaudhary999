@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ManavChaudhary999
 - 👀 I’m interested in anything related to software development
-- I am an intermediate programmer
 - I have achieved good amount of skills in web development
-- 🌱 I’m currently learning unity game development
-- 💞️ I’m looking to collaborate on video game projects
+- 🌱 I’m currently learning new tech stacks and frameworks related to WebDev
+- 💞️ I’m looking to collaborate on Software Development projects
 - 📫 You can reach me via my email id ( 999manavchaudhary@gmail.com)
