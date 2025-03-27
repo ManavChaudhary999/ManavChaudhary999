@@ -1,7 +1,5 @@
 # 🚀 Manav Chaudhary | Software Developer  
 
-![Banner](https://source.unsplash.com/1600x400/?technology,code)  
-
 ### Hi there! 👋  
 
 I'm **Manav Chaudhary**, a passionate **Full-Stack Developer** with expertise in **Web Development** and a strong interest in exploring **new tech stacks & frameworks**.  
