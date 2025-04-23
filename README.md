@@ -78,7 +78,7 @@ I'm **Manav Chaudhary**, a passionate **Full-Stack Developer** with expertise in
 
 💌 **Email:** [999manavchaudhary@gmail.com](mailto:999manavchaudhary@gmail.com)  
 
-🔗 **LinkedIn:** [Manav Chaudhary](www.linkedin.com/in/manav-chaudhary-829909333)  
+🔗 **LinkedIn:** [Manav Chaudhary](https://www.linkedin.com/in/manav-chaudhary-829909333/)  
 🔗 **Twitter:** [@maclv999](https://x.com/maclv999)
 
 💙 _Let's connect and build something amazing!_ 🚀  
